@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "635675488201",
+    "firebase_url": "https://new-glade-app.firebaseio.com",
+    "project_id": "new-glade-app",
+    "storage_bucket": "new-glade-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635675488201:android:2b63b58ed51c927bc28218",
+        "android_client_info": {
+          "package_name": "gladepay.package.gladepaymanger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635675488201-dertk9kfq7262pm2l0s3fva212uisg99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGDcFi1Ojtmjm221KlD_iiS_C59rNQtKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635675488201-dertk9kfq7262pm2l0s3fva212uisg99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
