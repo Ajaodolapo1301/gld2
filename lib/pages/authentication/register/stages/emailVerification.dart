@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
+
 import 'package:glade_v2/pages/authentication/login_page.dart';
 import 'package:glade_v2/pages/authentication/register/stages/verifyBvn.dart';
 import 'package:glade_v2/provider/appState.dart';
@@ -14,7 +14,7 @@ import 'package:glade_v2/utils/widgets/loader/preloader.dart';
 import 'package:glade_v2/utils/widgets/number_button_view.dart';
 import 'package:provider/provider.dart';
 
-import '../../welcome_back_page.dart';
+
 
 class EmailVerification extends StatefulWidget {
   @override
